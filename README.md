@@ -45,8 +45,9 @@ npm install
 
 # 4. Inicie o sinal de transmissão
 npm run dev
-
+```
 ---
+
 ### 🔗 Link Established
 Os canais de transmissão estão sempre abertos para falar sobre cibersegurança, desenvolvimento ou jogos indie muito bons:
 
