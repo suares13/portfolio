@@ -1,7 +1,7 @@
 <div align="center">
 
-# ⚠️ AKTE NR. LSTR-0413 // SYSTEM ONLINE
-**FÜHRUNGSKOMMANDO // OFFENSIVE SECURITY DOSSIER**
+# ▓▒░ AKTE NR. LSTR-0413 ░▒▓
+### `[ FÜHRUNGSKOMMANDO // OFFENSIVE SECURITY DOSSIER ]`
 
 _“I am LSTR unit. My designation is Elster.”_
 
@@ -16,21 +16,25 @@ _“I am LSTR unit. My designation is Elster.”_
 
 <br>
 
-> **STATUS:** Conexão estabelecida. Identidade verificada. Terminal desbloqueado.
+```text
+> INITIALIZING SYSTEM...
+> DECRYPTING DOSSIER LSTR-0413... [OK]
+> CLEARANCE: VERTRAULICH (CONFIDENTIAL)
+```
 
 Há anos eu idealizo como seria o meu portfólio, pensando em como unir a minha identidade real com a minha área de atuação. Finalmente consegui tirar do papel e chegar *exatamente* no resultado que eu sempre quis. 
 
-Toda a interface foi inspirada na estética retro-tech, brutalista e de sobrevivência do universo de **Signalis** — que inclusive se tornou o novo tema oficial do meu perfil aqui no GitHub. A ideia é que você sinta que acabou de acessar um dossiê classificado de espionagem ao abrir o site.
+Toda a interface foi inspirada na estética retro-tech, brutalista e de sobrevivência do universo de **Signalis**, que inclusive se tornou o novo tema oficial do meu perfil aqui no GitHub. A ideia é que você sinta que acabou de acessar um dossiê classificado de espionagem ao abrir o site.
 
 ---
 
-### ❖ OVERVIEW // IDENTIFICAÇÃO
+### ► `[ OVERVIEW // IDENTIFICAÇÃO ]`
 
 Sou a **Victória Suares**, estudante de Engenharia de Software focada na construção do meu caminho na área tech. Minha especialidade e paixão estão na **Segurança Ofensiva (Red Team)**, aliando o desenvolvimento de software à análise rigorosa de vulnerabilidades.
 
 Esse terminal é o meu *Projektarchiv* (Arquivo de Projetos), onde documento o meu fluxo de pesquisa, minhas ferramentas táticas para testes de invasão e a minha visão sobre a complexidade dos sistemas.
 
-### ❖ PROJEKTARCHIV // ARSENAL
+### ► `[ PROJEKTARCHIV // ARSENAL ]`
 
 Dentro do sistema você vai esbarrar com os meus principais arquivos operacionais:
 
@@ -39,17 +43,17 @@ Dentro do sistema você vai esbarrar com os meus principais arquivos operacionai
 - **Ferramentas de Auditoria & Purple Team:** CLI tools de compliance e simuladores de emulação de adversários via framework MITRE ATT&CK.
 - **Pesquisa Acadêmica:** Estudo avançado focado no desenvolvimento e na ética da Inteligência Artificial.
 
-### ❖ SYSTEM DIAGNOSTIC // INFRAESTRUTURA
+### ► `[ SYSTEM DIAGNOSTIC // INFRAESTRUTURA ]`
 
 Para sustentar toda a imersão de *Signalis*, a infraestrutura do terminal roda com:
 
-- **React (Vite)**
-- **Tailwind CSS** (Responsável pelo vermelho agressivo, contrastes no modo escuro e formatação de terminal)
-- **Animações CSS** (Scanlines CRT, efeitos de pulso e *hover* tático direcional dos dossiês)
+- `React (Vite)`
+- `Tailwind CSS` (Responsável pelo vermelho agressivo, contrastes no modo escuro e formatação de terminal)
+- `Animações CSS` (Scanlines CRT, efeitos de pulso e hover tático direcional dos dossiês)
 
 ---
 
-### ❖ ACESSO LOCAL // OVERRIDE
+### [!] ACESSO LOCAL // OVERRIDE
 
 Se você deseja clonar este terminal na sua própria base para auditoria do código-fonte:
 
@@ -66,10 +70,12 @@ npm install
 # 4. Inicie o sinal de transmissão
 npm run dev
 ```
+
 ---
 
-### 🔗 Link Established
-Os canais de transmissão estão sempre abertos para falar sobre cibersegurança, desenvolvimento ou jogos indie muito bons:
+### 🔗 LINK ESTABLISHED
+
+Os canais de transmissão estão abertos para contatos sobre cibersegurança, desenvolvimento ou recomendações de jogos indie:
 
 - **Rede Profissional:** [in/victoria-suares](https://linkedin.com/in/victoria-suares)
 - **Repositório Pessoal:** [@suares13](https://github.com/suares13)
