@@ -59,10 +59,10 @@ Se você deseja clonar este terminal na sua própria base para auditoria do cód
 
 ```bash
 # 1. Intercepte o repositório
-git clone [https://github.com/suares13/vict-ria-suares-cyber-dossier.git](https://github.com/suares13/vict-ria-suares-cyber-dossier.git)
+git clone [https://github.com/suares13/portfolio.git](https://github.com/suares13/portfolio.git)
 
-# 2. Acesse o diretório
-cd vict-ria-suares-cyber-dossier
+# 2. Acesse o diretório (Nota: o repositório possui uma pasta aninhada)
+cd portfolio/portfolio
 
 # 3. Instale os pacotes de dados
 npm install
