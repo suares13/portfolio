@@ -6,7 +6,7 @@ Seja bem-vindo(a) ao meu terminal!
 
 Há anos eu idealizo como seria o meu portfólio, pensando em como unir a minha identidade real com a minha área de atuação. Finalmente consegui tirar do papel e chegar *exatamente* no resultado que eu sempre quis. 
 
-Toda a interface foi inspirada na estética retro-tech, brutalista e de sobrevivência do universo de **Signalis** — que inclusive se tornou o novo tema oficial do meu perfil aqui no GitHub. A ideia é que você sinta que acabou de acessar um dossiê classificado de espionagem ao abrir o site.
+Toda a interface foi inspirada na estética retro-tech, brutalista e de sobrevivência do universo de **Signalis**, que inclusive se tornou o novo tema oficial do meu perfil aqui no GitHub. A ideia é que você sinta que acabou de acessar um dossiê classificado de espionagem ao abrir o site.
 
 ---
 
