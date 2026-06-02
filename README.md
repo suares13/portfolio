@@ -57,5 +57,6 @@ Para sustentar toda a imersão de *Signalis*, a infraestrutura do terminal roda 
 
 Os canais de transmissão estão abertos para contatos sobre cibersegurança, desenvolvimento ou recomendações de jogos indie:
 
+- **Portfólio:** [cyber-signal-archive.lovable.app](https://cyber-signal-archive.lovable.app)
 - **Rede Profissional:** [in/victoria-suares](https://linkedin.com/in/victoria-suares)
 - **Repositório Pessoal:** [@suares13](https://github.com/suares13)
