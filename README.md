@@ -53,26 +53,6 @@ Para sustentar toda a imersão de *Signalis*, a infraestrutura do terminal roda 
 
 ---
 
-### [!] ACESSO LOCAL // OVERRIDE
-
-Se você deseja clonar este terminal na sua própria base para auditoria do código-fonte:
-
-```bash
-# 1. Intercepte o repositório
-git clone [https://github.com/suares13/portfolio.git](https://github.com/suares13/portfolio.git)
-
-# 2. Acesse o diretório (Nota: o repositório possui uma pasta aninhada)
-cd portfolio/portfolio
-
-# 3. Instale os pacotes de dados
-npm install
-
-# 4. Inicie o sinal de transmissão
-npm run dev
-```
-
----
-
 ### 🔗 LINK ESTABLISHED
 
 Os canais de transmissão estão abertos para contatos sobre cibersegurança, desenvolvimento ou recomendações de jogos indie:
